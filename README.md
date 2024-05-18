@@ -8,7 +8,7 @@ pip install tensorflow
 -Open the code into a Jupyter Notebook.<br/>
 -Make sure to import all required libraries including cv2, numpy, os, matplotlib, mediapipe, sklearn, keras, seaborn, tensorflow.keras, and others.
 ## 3. Data Collection:
--The project aleardy has its own data in one folder named "Data" contain two folders named "1" and "0" , one for the correct images (1) and two for the incorrect images (0) <br/>
+-The project aleardy has its own data in one folder named "Test" contain two folders named "1" and "0" , one for the correct images (1) and two for the incorrect images (0) <br/>
 ### Optionally:
 -You can add more images if you want by take pictures of you doing the execrsice or just get it by download it from any resource  and add them to the right folder <br/>
 -Make sure you add the correct execrsice technique images in folder 1 and the incorrect in folder 0 <br/>
