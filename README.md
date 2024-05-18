@@ -15,7 +15,7 @@ pip install tensorflow
 ## 4. Train the Model (Optional):
 You don't need to train the model it is already trained you can use it immediately<br/>
 ### Optionally:
--If you want to train it Run the code in the file named "AICoachModel" to gather training data and preprocess it and split it into sequences.<br/>
+-If you want to train it Run the code in the file named "AICoachModel" to gather training data and preprocess it.<br/>
 -Train the AI coach model by running the model training code.
 ## 5. Real-time pose detection:
 -Once the model is trained, you can run the execution code. This will activate your webcam and start real-time pose detection for side plank execrsice.<br/>
